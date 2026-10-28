@@ -1,7 +1,5 @@
-# ML_project
-# Sales & Demand Forecasting for Businesses
 
-## Machine Learning Task 1 (2026)
+# Sales & Demand Forecasting for Businesses
 
 ### Objective
 
