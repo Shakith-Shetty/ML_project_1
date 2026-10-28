@@ -1,4 +1,4 @@
-# FUTURE_ML_01
+# ML_project
 # Sales & Demand Forecasting for Businesses
 
 ## Machine Learning Task 1 (2026)
